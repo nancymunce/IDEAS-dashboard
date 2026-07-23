@@ -1,4 +1,4 @@
-# Nancy Munce Command Center
+# Nancy Munce IDEAS dashboard
 
 A personal GitHub Pages dashboard for organizing frequently used work resources.
 
