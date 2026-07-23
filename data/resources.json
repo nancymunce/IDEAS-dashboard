@@ -1,0 +1,754 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "name": "Cryptography Demo",
+      "category": "Web Projects & GitHub",
+      "description": "Interactive cryptography webpage hosted through CloudFront.",
+      "url": "https://d2hie3dpn9wvbb.cloudfront.net/Cryptography/Crypto.html",
+      "type": "Web App",
+      "tags": [
+        "cryptography",
+        "demo"
+      ],
+      "id": "r001",
+      "favorite": false
+    },
+    {
+      "name": "Edit ATST vs. IDEAS Page",
+      "category": "Web Projects & GitHub",
+      "description": "GitHub editor for the ATST vs. IDEAS webpage in the IDEAS repository.",
+      "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fnancymunce%2FIDEAS%2Fedit%2Fmain%2FATSTvIDEAS.html",
+      "type": "GitHub",
+      "tags": [
+        "github",
+        "editing"
+      ],
+      "id": "r002",
+      "favorite": false
+    },
+    {
+      "name": "Bloom's Taxonomy Page",
+      "category": "Web Projects & GitHub",
+      "description": "Source file for the Bloom's taxonomy webpage in GitHub.",
+      "url": "https://github.com/nancymunce/IDEAS/blob/main/blooms.html",
+      "type": "GitHub",
+      "tags": [
+        "blooms",
+        "webpage"
+      ],
+      "id": "r003",
+      "favorite": false
+    },
+    {
+      "name": "ATST vs. IDEAS Webpage",
+      "category": "Web Projects & GitHub",
+      "description": "Published GitHub Pages version of the ATST vs. IDEAS webpage.",
+      "url": "https://nancymunce.github.io/IDEAS/ATSTvIDEAS.html",
+      "type": "Webpage",
+      "tags": [
+        "github pages",
+        "ATST",
+        "IDEAS"
+      ],
+      "id": "r004",
+      "favorite": false
+    },
+    {
+      "name": "U.S. Department of Labor AI Image",
+      "category": "AI Resources",
+      "description": "Department of Labor image related to a February 2026 news release.",
+      "url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/2026/02/ETA-20260212-hi.jpg",
+      "type": "Image",
+      "tags": [
+        "labor",
+        "AI",
+        "2026"
+      ],
+      "id": "r005",
+      "favorite": false
+    },
+    {
+      "name": "Teaching With AI Prompt Library",
+      "category": "AI Resources",
+      "description": "FGCU prompt library for creating teaching and learning materials with AI.",
+      "url": "https://fgcu-dendritic-institute.github.io/Teaching_With_AI_Prompt_Library/Create_Workspace.html",
+      "type": "Prompt Library",
+      "tags": [
+        "teaching",
+        "prompts",
+        "faculty"
+      ],
+      "id": "r006",
+      "favorite": false
+    },
+    {
+      "name": "Updating Assignments for the AI Age",
+      "category": "AI Resources",
+      "description": "Faculty Focus article on redesigning assignments for critical thinking and authentic learning.",
+      "url": "https://www.facultyfocus.com/articles/effective-teaching-strategies/5-steps-to-update-assignments-to-foster-critical-thinking-and-authentic-learning-in-an-ai-age/",
+      "type": "Article",
+      "tags": [
+        "assignments",
+        "critical thinking",
+        "faculty"
+      ],
+      "id": "r007",
+      "favorite": false
+    },
+    {
+      "name": "AI Literacy Resource",
+      "category": "AI Resources",
+      "description": "Interactive AI literacy learning resource created by Chad Mairn.",
+      "url": "https://chadmairn.github.io/AI-literacy/",
+      "type": "Learning Resource",
+      "tags": [
+        "AI literacy",
+        "faculty",
+        "students"
+      ],
+      "id": "r008",
+      "favorite": false
+    },
+    {
+      "name": "AI Assessment Scale",
+      "category": "AI Resources",
+      "description": "Framework for defining appropriate levels of AI use in assessment.",
+      "url": "https://aiassessmentscale.com/",
+      "type": "Framework",
+      "tags": [
+        "assessment",
+        "academic integrity",
+        "AI use"
+      ],
+      "id": "r009",
+      "favorite": false
+    },
+    {
+      "name": "AI in Education Conference",
+      "category": "AI Resources",
+      "description": "Magna Publications conference focused on AI in teaching and learning.",
+      "url": "https://www.magnapubs.com/ai-in-education-conference/?st=hmail&utm_medium=email&_hsmi=419302605&utm_content=419302605&utm_source=hs_email",
+      "type": "Conference",
+      "tags": [
+        "conference",
+        "professional development"
+      ],
+      "id": "r010",
+      "favorite": false
+    },
+    {
+      "name": "Embracing AI in Online Courses",
+      "category": "AI Resources",
+      "description": "Faculty Focus article on practical strategies for integrating AI into online courses.",
+      "url": "https://www.facultyfocus.com/articles/online-education/from-restriction-to-integration-practical-strategies-for-embracing-ai-in-online-courses/?st=FFdaily%3Bsc%3DFF260513%3Butm_term%3DFF260513&utm_campaign=13247135-Faculty%20Focus%3A%20June%20-%20December%202025&utm_medium=email&_hsmi=418076000&utm_content=418076000&utm_source=hs_email",
+      "type": "Article",
+      "tags": [
+        "online learning",
+        "AI integration",
+        "faculty"
+      ],
+      "id": "r011",
+      "favorite": false
+    },
+    {
+      "name": "Simple Syllabus Help Center",
+      "category": "Digital Tools",
+      "description": "Support documentation and help articles for Simple Syllabus.",
+      "url": "https://simplesyllabus.zendesk.com/hc/en-us",
+      "type": "Help Center",
+      "tags": [
+        "syllabus",
+        "support"
+      ],
+      "id": "r012",
+      "favorite": false
+    },
+    {
+      "name": "Mural",
+      "category": "Digital Tools",
+      "description": "Collaborative visual workspace for brainstorming, planning, and facilitation.",
+      "url": "https://www.mural.co/",
+      "type": "Collaboration Tool",
+      "tags": [
+        "whiteboard",
+        "collaboration"
+      ],
+      "id": "r013",
+      "favorite": false
+    },
+    {
+      "name": "NotebookLM",
+      "category": "Digital Tools",
+      "description": "Google AI notebook for working with uploaded sources and research materials.",
+      "url": "https://notebooklm.google.com/?icid=plans_free",
+      "type": "AI Tool",
+      "tags": [
+        "research",
+        "notes",
+        "Google"
+      ],
+      "id": "r014",
+      "favorite": false
+    },
+    {
+      "name": "Gemini",
+      "category": "Digital Tools",
+      "description": "Google Gemini workspace.",
+      "url": "https://gemini.google.com/app/c074ed83eaba9c0f",
+      "type": "AI Tool",
+      "tags": [
+        "Google",
+        "AI assistant"
+      ],
+      "id": "r015",
+      "favorite": false
+    },
+    {
+      "name": "Claude",
+      "category": "Digital Tools",
+      "description": "Anthropic Claude AI assistant.",
+      "url": "https://claude.ai/new",
+      "type": "AI Tool",
+      "tags": [
+        "Anthropic",
+        "AI assistant"
+      ],
+      "id": "r016",
+      "favorite": false
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Digital Tools",
+      "description": "OpenAI ChatGPT workspace.",
+      "url": "https://chatgpt.com/",
+      "type": "AI Tool",
+      "tags": [
+        "OpenAI",
+        "AI assistant"
+      ],
+      "favorite": true,
+      "id": "r017"
+    },
+    {
+      "name": "Course Development SharePoint Folder",
+      "category": "Course Development",
+      "description": "Main IDEAS SharePoint folder for course development materials.",
+      "url": "https://spcollegeedu.sharepoint.com/sites/IDS/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120005C115796861E384497754F4D64378B13&id=%2Fsites%2FIDS%2FShared%20Documents%2FCourse%20Development",
+      "type": "SharePoint Folder",
+      "tags": [
+        "course development",
+        "SharePoint"
+      ],
+      "favorite": true,
+      "id": "r018"
+    },
+    {
+      "name": "Canvas Quiz Creation Tool Discussion",
+      "category": "Course Development",
+      "description": "Canvas Community discussion about a free quiz conversion tool.",
+      "url": "https://community.instructure.com/en/discussion/629460/effortless-quiz-creation-free-tool-by-lawrence-s-ting-school-to-enhance-canvas-lms-by-converting-d",
+      "type": "Community Discussion",
+      "tags": [
+        "Canvas",
+        "quizzes"
+      ],
+      "id": "r019",
+      "favorite": false
+    },
+    {
+      "name": "Microsoft 365 Copilot Chat",
+      "category": "Course Development",
+      "description": "Microsoft 365 Copilot chat workspace using the SPC account.",
+      "url": "https://m365.cloud.microsoft/chat?auth=2&home=1&from=ShellLogo&username=Munce.Nancy%40SPCollege.edu&login_hint=Munce.Nancy%40SPCollege.edu",
+      "type": "AI Tool",
+      "tags": [
+        "Microsoft 365",
+        "Copilot"
+      ],
+      "id": "r020",
+      "favorite": false
+    },
+    {
+      "name": "Course Development Spreadsheet",
+      "category": "Course Development",
+      "description": "Course development spreadsheet stored in the IDEAS SharePoint site.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/doc.aspx?sourcedoc=%7B31035d59-7beb-449d-867d-52d35e474d79%7D&action=edit",
+      "type": "Excel",
+      "tags": [
+        "tracker",
+        "SharePoint"
+      ],
+      "id": "r021",
+      "favorite": false
+    },
+    {
+      "name": "SPC Standard Course List",
+      "category": "Course Development",
+      "description": "Official spreadsheet listing SPC standard courses.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B681EE869-44C6-42D4-9B6C-13897FAFD923%7D&file=SPC%20Standard%20Course%20List.xlsx&action=default&mobileredirect=true",
+      "type": "Excel",
+      "tags": [
+        "standard courses",
+        "course list"
+      ],
+      "favorite": true,
+      "id": "r022"
+    },
+    {
+      "name": "TOL Enrollment Email",
+      "category": "Course Development",
+      "description": "Word document containing the TOL enrollment email template.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B5B0A38FD-E3F6-414C-83F7-7F598535DCCD%7D&file=TOL%20Enrollment%20Email.docx&action=default&mobileredirect=true",
+      "type": "Word",
+      "tags": [
+        "TOL",
+        "email template"
+      ],
+      "id": "r023",
+      "favorite": false
+    },
+    {
+      "name": "Parent Course Agreement Email",
+      "category": "Course Development",
+      "description": "Word document containing the parent course agreement email.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7BFD0E2F2A-4501-4C1A-825A-A6E5C70030DB%7D&file=Parent%20Course%20Agreement%20Email.docx&action=default&mobileredirect=true&DefaultItemOpen=1",
+      "type": "Word",
+      "tags": [
+        "parent course",
+        "email template"
+      ],
+      "id": "r024",
+      "favorite": false
+    },
+    {
+      "name": "2026\u20132027 TOL Completion Tracker",
+      "category": "Course Development",
+      "description": "Excel tracker for TOL completions during the 2026\u20132027 year.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B2AFAF4D2-F74A-479D-BD99-5410E680077B%7D&file=2026_2027%20TOL%20Completion%20Tracker.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+      "type": "Excel",
+      "tags": [
+        "TOL",
+        "completion tracker"
+      ],
+      "id": "r025",
+      "favorite": false
+    },
+    {
+      "name": "IDEAS SharePoint Home",
+      "category": "Course Development",
+      "description": "Main IDEAS SharePoint site.",
+      "url": "https://spcollegeedu.sharepoint.com/sites/IDS",
+      "type": "SharePoint Site",
+      "tags": [
+        "IDEAS",
+        "SharePoint"
+      ],
+      "id": "r026",
+      "favorite": false
+    },
+    {
+      "name": "2026\u20132027 Professional Development Plan",
+      "category": "Course Development",
+      "description": "IDEAS professional development plan for the 2026\u20132027 year.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7BEC0E93B6-09D1-4FE6-8C78-A12070F578A5%7D&file=2026-2027%20Professional%20Development%20Plan.docx&action=default&mobileredirect=true&DefaultItemOpen=1%3Fweb%3D1",
+      "type": "Word",
+      "tags": [
+        "professional development",
+        "planning"
+      ],
+      "id": "r027",
+      "favorite": false
+    },
+    {
+      "name": "2026 Panda Day IDEAS Sessions",
+      "category": "Course Development",
+      "description": "Planning document for IDEAS sessions during 2026 Panda Day.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7BE126C320-F9BC-43A2-B953-34A02565885C%7D&file=2026%20Panda%20Day%20IDEAS%20Sessions.docx&action=default&mobileredirect=true&DefaultItemOpen=1",
+      "type": "Word",
+      "tags": [
+        "Panda Day",
+        "sessions"
+      ],
+      "id": "r028",
+      "favorite": false
+    },
+    {
+      "name": "Course Development Payments Tracker",
+      "category": "Course Development",
+      "description": "Spreadsheet tracking IDEAS course development payments across fiscal years.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7BC6299AFF-1E31-46F2-9CDD-1D41B7379FC7%7D&file=24-25-26_CourseDevelopment_IDEASpayments.xlsx&action=default&mobileredirect=true",
+      "type": "Excel",
+      "tags": [
+        "payments",
+        "course development"
+      ],
+      "id": "r029",
+      "favorite": false
+    },
+    {
+      "name": "Nancy's OneDrive",
+      "category": "Course Development",
+      "description": "SPC OneDrive home page.",
+      "url": "https://spcollegeedu-my.sharepoint.com/?login_hint=Munce%2ENancy%40SPCollege%2Eedu&source=waffle",
+      "type": "OneDrive",
+      "tags": [
+        "files",
+        "Microsoft 365"
+      ],
+      "id": "r030",
+      "favorite": false
+    },
+    {
+      "name": "IDEAS Shared Word Document",
+      "category": "Course Development",
+      "description": "Shared IDEAS Word document in SharePoint.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/s/IDS/EcJRk3ksS7lLgFCqciKOl6EB77dteoSB8kon4zDroUpHHQ?e=o7FY9j",
+      "type": "Word",
+      "tags": [
+        "shared document"
+      ],
+      "id": "r031",
+      "favorite": false
+    },
+    {
+      "name": "AA Department Leadership PDF",
+      "category": "Course Development",
+      "description": "Shared PDF for AA Department Leadership 2025\u20132026.",
+      "url": "https://spcollegeedu-my.sharepoint.com/shared?listurl=https%3A%2F%2Fspcollegeedu-my.sharepoint.com%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments&id=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files%2FAA+Department+Leadership+2025-26+1.pdf&parent=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files&shareLink=1%2C1%2C1%2C1%2C1%2C1%2C1%2C1&ga=1",
+      "type": "PDF",
+      "tags": [
+        "leadership",
+        "AA"
+      ],
+      "id": "r032",
+      "favorite": false
+    },
+    {
+      "name": "SPC Canvas Beta",
+      "category": "Course Development",
+      "description": "SPC Canvas beta environment for testing.",
+      "url": "https://spcollege.beta.instructure.com/",
+      "type": "Canvas",
+      "tags": [
+        "Canvas",
+        "testing"
+      ],
+      "favorite": true,
+      "id": "r033"
+    },
+    {
+      "name": "CanvasService Blueprint Pairs",
+      "category": "Blueprinting",
+      "description": "CanvasService page for reviewing and managing blueprint course pairings.",
+      "url": "https://canvasservice.spcollege.edu/Admin/BlueprintPairs?termId=4807c510-55a6-4891-81de-08db5b9b4b0e&courseCodeSearch=man2021&order=Ascending&offset=0&limit=10&total=1",
+      "type": "Internal Tool",
+      "tags": [
+        "CanvasService",
+        "blueprint pairs"
+      ],
+      "favorite": true,
+      "id": "r034"
+    },
+    {
+      "name": "AA Department Leadership PDF",
+      "category": "Blueprinting",
+      "description": "Shared AA Department Leadership 2025\u20132026 PDF relevant to blueprint planning.",
+      "url": "https://spcollegeedu-my.sharepoint.com/shared?listurl=https%3A%2F%2Fspcollegeedu-my.sharepoint.com%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments&id=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files%2FAA+Department+Leadership+2025-26+1.pdf&parent=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files&shareLink=1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1&ga=1",
+      "type": "PDF",
+      "tags": [
+        "leadership",
+        "AA"
+      ],
+      "id": "r035",
+      "favorite": false
+    },
+    {
+      "name": "Blueprint Tracking Spreadsheet",
+      "category": "Blueprinting",
+      "description": "Primary SharePoint spreadsheet used for blueprint tracking.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/doc2.aspx?sourcedoc=%7Bb1a8db3d-ebb4-41a8-bf59-b6ad7c5c430e%7D&action=edit&activeCell=%27SC_0665_8W1%27!F68&wdinitialsession=d761e73d-57c3-2fdb-90d6-71e1f6a761bc&wdrldsc=109&wdrldc=1&wdrldr=AccessTokenExpiredWarningUnauthenticated%2CRefreshin",
+      "type": "Excel",
+      "tags": [
+        "tracking",
+        "blueprints"
+      ],
+      "favorite": true,
+      "id": "r036"
+    },
+    {
+      "name": "Shared Blueprint Spreadsheet",
+      "category": "Blueprinting",
+      "description": "Shared spreadsheet related to blueprint course management.",
+      "url": "https://spcollegeedu-my.sharepoint.com/:x:/r/personal/godcharles_timothy_spcollege_edu/_layouts/15/doc2.aspx?sourcedoc=%7B5acf11e4-96ec-47a1-840d-8d49e8a05595%7D&action=view&wdinitialsession=19c0e2c3-ec05-2355-8848-dc1ea7b8eee8&wdrldsc=10&wdrldc=1&wdrldr=UserInteraction%2CBootTimeMismatch",
+      "type": "Excel",
+      "tags": [
+        "shared",
+        "blueprints"
+      ],
+      "id": "r037",
+      "favorite": false
+    },
+    {
+      "name": "SPC Class Schedule",
+      "category": "Blueprinting",
+      "description": "Search SPC classes for the selected term and online modality.",
+      "url": "https://classes.spcollege.edu/?term=f58dcb90-c1eb-4a13-81df-08db5b9b4b0e&modality=Online",
+      "type": "Search Tool",
+      "tags": [
+        "classes",
+        "schedule",
+        "online"
+      ],
+      "id": "r038",
+      "favorite": false
+    },
+    {
+      "name": "Course Coordinator Email Tracker",
+      "category": "Blueprinting",
+      "description": "Spreadsheet for course coordinator email tracking.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B40CC25BF-A10F-4D11-A417-444F64C372B3%7D&file=CCemail.xlsx&action=default&mobileredirect=true",
+      "type": "Excel",
+      "tags": [
+        "course coordinators",
+        "email"
+      ],
+      "id": "r039",
+      "favorite": false
+    },
+    {
+      "name": "Fall Course Coordinator Meeting Guide",
+      "category": "Blueprinting",
+      "description": "Meeting guide for fall course coordinator conversations.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7BF445EF4C-60E5-45D4-9B64-A7A539C22119%7D&file=Fall%20Course%20Coordinator%20Meeting%20Guide.docx&action=default&mobileredirect=true",
+      "type": "Word",
+      "tags": [
+        "course coordinators",
+        "meeting guide"
+      ],
+      "id": "r040",
+      "favorite": false
+    },
+    {
+      "name": "ATST Shared Spreadsheet",
+      "category": "ATST Collaboration",
+      "description": "Shared ATST spreadsheet in Microsoft Teams and OneDrive.",
+      "url": "https://spcollegeedu-my.sharepoint.com/:x:/r/personal/cantrell_tiffany_spcollege_edu/_layouts/15/doc2.aspx?action=edit&sourcedoc=%7B5df9d9ec-1306-4a42-8d00-08462f4fb5b2%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=3d30ad11-7ada-47f7-8f90-4add3c77f78c&linkOpenTime=1780595423065",
+      "type": "Excel",
+      "tags": [
+        "ATST",
+        "Teams"
+      ],
+      "id": "r041",
+      "favorite": false
+    },
+    {
+      "name": "Faculty Support Request Forms",
+      "category": "ATST Collaboration",
+      "description": "SPC faculty support request forms.",
+      "url": "https://facultysupport.spcollege.edu/request-forms/",
+      "type": "Web Form",
+      "tags": [
+        "faculty support",
+        "requests"
+      ],
+      "favorite": true,
+      "id": "r042"
+    },
+    {
+      "name": "SPC Survey 31443",
+      "category": "ATST Collaboration",
+      "description": "SPC survey form associated with ATST work.",
+      "url": "https://web.spcollege.edu/survey/31443",
+      "type": "Survey",
+      "tags": [
+        "survey",
+        "SPC"
+      ],
+      "id": "r043",
+      "favorite": false
+    },
+    {
+      "name": "Administrative Word Document",
+      "category": "Administration",
+      "description": "Shared administrative document in the IDEAS SharePoint site.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/doc2.aspx?action=edit&sourcedoc=%7B7bbc4291-e247-4cb0-8694-08eac5e52cfa%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=a264ac79-6009-4ab7-bbd7-d242392e7a2a&linkOpenTime=1783437378915",
+      "type": "Word",
+      "tags": [
+        "administration",
+        "Teams"
+      ],
+      "id": "r044",
+      "favorite": false
+    },
+    {
+      "name": "Course Development Requests Tracker",
+      "category": "Administration",
+      "description": "Spreadsheet tracking course development requests across multiple years.",
+      "url": "https://spcollegeedu-my.sharepoint.com/:x:/r/personal/munce_nancy_spcollege_edu/_layouts/15/Doc.aspx?sourcedoc=%7B625E2E29-BE41-4FD4-B78D-00C9F699DDC3%7D&file=20232425-Course_Development_Requests.xlsx&action=default&mobileredirect=true",
+      "type": "Excel",
+      "tags": [
+        "requests",
+        "course development"
+      ],
+      "id": "r045",
+      "favorite": false
+    },
+    {
+      "name": "Three-Year Assessment Planning Worksheet",
+      "category": "Administration",
+      "description": "IDEAS service unit assessment planning worksheet for the 2023\u20132026 cycle.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/doc2.aspx?sourcedoc=%7BDE018C06-9A4D-485A-8FAE-96132D1C6CEE%7D&file=3%20Year%20Service%20Unit%20Assessment%20Planning%20Worksheet%20IDEAS%2023-26%20-%20Copy.docx&ac=",
+      "type": "Word",
+      "tags": [
+        "assessment",
+        "planning"
+      ],
+      "id": "r046",
+      "favorite": false
+    },
+    {
+      "name": "FY26\u201327 Dean Budget Projections",
+      "category": "Administration",
+      "description": "Spreadsheet containing dean projections for FY26\u201327 budgeting.",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B35251152-A791-479B-AE04-2C992D6768E5%7D&file=FY26-27%20Dean%20Projections%20for%20Budgeting%20Purposes.xlsx&action=default&mobileredirect=true&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=fe85dc74-50fb-46f2-b3b3-81c2bdbc50ef&linkOpenTime=1782141546356",
+      "type": "Excel",
+      "tags": [
+        "budget",
+        "projections"
+      ],
+      "id": "r047",
+      "favorite": false
+    },
+    {
+      "name": "Power Automate Home",
+      "category": "Productivity & Automation",
+      "description": "Microsoft Power Automate home page for the SPC environment.",
+      "url": "https://make.powerautomate.com/environments/Default-575038c8-ac70-4295-810e-0df79c005f41/home",
+      "type": "Automation Tool",
+      "tags": [
+        "Power Automate",
+        "Microsoft"
+      ],
+      "favorite": true,
+      "id": "r048"
+    },
+    {
+      "name": "Microsoft Viva Insights",
+      "category": "Productivity & Automation",
+      "description": "Personal productivity and focus insights in Microsoft 365.",
+      "url": "https://insights.cloud.microsoft/#/PersonalApp/Home/",
+      "type": "Productivity Tool",
+      "tags": [
+        "Viva Insights",
+        "focus"
+      ],
+      "id": "r049",
+      "favorite": false
+    },
+    {
+      "name": "Power Automate Flow Owners",
+      "category": "Productivity & Automation",
+      "description": "Owner settings for a specific Power Automate flow.",
+      "url": "https://make.powerautomate.com/environments/Default-575038c8-ac70-4295-810e-0df79c005f41/flows/aea9de4e-81d6-4b46-849d-fdefdf5f26f9/owners",
+      "type": "Automation Tool",
+      "tags": [
+        "Power Automate",
+        "flow"
+      ],
+      "id": "r050",
+      "favorite": false
+    },
+    {
+      "name": "2026\u20132027 FLAIR Innovation Grant Draft",
+      "category": "FLAIR Innovation Grant",
+      "description": "Current draft of the 2026\u20132027 FLAIR Innovation Grant proposal.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B72D4448A-21D7-41B8-876C-89E513DB49E2%7D&file=2026_2027_DRAFT_FLAIR_IGrant.docx&action=default&mobileredirect=true",
+      "type": "Word",
+      "tags": [
+        "FLAIR",
+        "proposal"
+      ],
+      "favorite": true,
+      "id": "r051"
+    },
+    {
+      "name": "2026 Innovation Grant Kickoff Agenda",
+      "category": "FLAIR Innovation Grant",
+      "description": "Kickoff agenda for the 2026 innovation grant project.",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B927D27A0-2911-400D-B966-1FE7E3836223%7D&file=2026%20IGrant%20Kickoff%20Agenda.docx&action=default&mobileredirect=true",
+      "type": "Word",
+      "tags": [
+        "kickoff",
+        "agenda"
+      ],
+      "id": "r052",
+      "favorite": false
+    },
+    {
+      "name": "Search IDEAS Files for IGrant",
+      "category": "FLAIR Innovation Grant",
+      "description": "SharePoint search for files containing \u201cigrant\u201d in the IDEAS library.",
+      "url": "https://spcollegeedu-my.sharepoint.com/query?q=igrant&id=%2Fsites%2FIDS%2FShared%20Documents&listurl=https%3A%2F%2Fspcollegeedu%2Esharepoint%2Ecom%2Fsites%2FIDS%2FShared%20Documents&searchScope=library",
+      "type": "SharePoint Search",
+      "tags": [
+        "search",
+        "igrant"
+      ],
+      "id": "r053",
+      "favorite": false
+    },
+    {
+      "name": "2026 Innovation Grant Folder",
+      "category": "FLAIR Innovation Grant",
+      "description": "Main SharePoint folder for the 2026 Innovation Grant.",
+      "url": "https://spcollegeedu.sharepoint.com/sites/IDS/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIDS%2FShared%20Documents%2FGrants%2F2026%20Innovation%20Grant&viewid=0b932c30%2Dbcd9%2D4be2%2Dad5f%2Dc0881ae2880a&FolderCTID=0x0120005C115796861E384497754F4D64378B13",
+      "type": "SharePoint Folder",
+      "tags": [
+        "grant",
+        "SharePoint"
+      ],
+      "favorite": true,
+      "id": "r054"
+    },
+    {
+      "name": "Microsoft 365 Copilot Chat",
+      "category": "FLAIR Innovation Grant",
+      "description": "Microsoft 365 Copilot chat workspace for grant-related drafting and planning.",
+      "url": "https://m365.cloud.microsoft/chat?auth=2&home=1&from=NoAccountOnStart",
+      "type": "AI Tool",
+      "tags": [
+        "Copilot",
+        "grant writing"
+      ],
+      "id": "r055",
+      "favorite": false
+    },
+    {
+      "name": "SPC Innovation Grant Guidelines",
+      "category": "FLAIR Innovation Grant",
+      "description": "Published guidelines for the 2026\u20132027 SPC Innovation Grant.",
+      "url": "https://myemail.constantcontact.com/SPC-Innovation-Grant-Guidelines-26-27.html?soid=1109152397950&aid=p0ZYuti9nu8",
+      "type": "Guidelines",
+      "tags": [
+        "grant",
+        "requirements"
+      ],
+      "id": "r056",
+      "favorite": false
+    },
+    {
+      "name": "Innovation Grant Power BI Report",
+      "category": "FLAIR Innovation Grant",
+      "description": "Power BI report associated with the innovation grant.",
+      "url": "https://app.powerbi.com/groups/me/reports/82056738-9e61-4d18-837c-01edaa55a1ea/4d78b2c0424cf5b7759e?ctid=575038c8-ac70-4295-810e-0df79c005f41&experience=power-bi",
+      "type": "Power BI",
+      "tags": [
+        "report",
+        "analytics"
+      ],
+      "id": "r057",
+      "favorite": false
+    }
+  ]
+}

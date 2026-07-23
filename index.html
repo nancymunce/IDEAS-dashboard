@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Nancy Munce Command Center">
+  <title>Nancy Munce Command Center</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">PERSONAL WORKSPACE</p>
+      <h1>Nancy Munce Command Center</h1>
+    </div>
+    <div class="top-actions">
+      <button id="favoritesBtn" class="ghost-btn">★ Favorites</button>
+      <button id="addResourceBtn" class="primary-btn">+ Add Resource</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <h2>Everything you need, organized by the way you work.</h2>
+        <p>Choose a category, search across every resource, or add something new.</p>
+      </div>
+      <div class="search-wrap">
+        <span>⌕</span>
+        <input id="globalSearch" type="search" placeholder="Search by name, description, tag, or category">
+      </div>
+    </section>
+
+    <section id="homeView">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">BROWSE</p>
+          <h2>Categories</h2>
+        </div>
+        <p id="resourceCount" class="muted"></p>
+      </div>
+      <div id="categoryGrid" class="category-grid"></div>
+    </section>
+
+    <section id="categoryView" class="hidden">
+      <button id="backBtn" class="back-btn">← All categories</button>
+      <div class="category-header">
+        <div>
+          <p class="eyebrow">CATEGORY</p>
+          <h2 id="categoryTitle"></h2>
+          <p id="categorySubtitle" class="muted"></p>
+        </div>
+        <div class="search-wrap compact">
+          <span>⌕</span>
+          <input id="categorySearch" type="search" placeholder="Search this category">
+        </div>
+      </div>
+      <div id="resourceGrid" class="resource-grid"></div>
+    </section>
+  </main>
+
+  <dialog id="resourceDialog">
+    <form id="resourceForm" method="dialog">
+      <div class="dialog-header">
+        <div>
+          <p class="eyebrow">RESOURCE</p>
+          <h2 id="dialogTitle">Add Resource</h2>
+        </div>
+        <button type="button" id="closeDialog" class="icon-btn" aria-label="Close">×</button>
+      </div>
+      <input id="resourceId" type="hidden">
+      <label>Site or resource name<input id="resourceName" required></label>
+      <label>Website URL<input id="resourceUrl" type="url" required placeholder="https://"></label>
+      <label>Category<select id="resourceCategory" required></select></label>
+      <label>Description<textarea id="resourceDescription" rows="4" required></textarea></label>
+      <label>Type<input id="resourceType" placeholder="Example: Excel, Article, Web App"></label>
+      <label>Tags<input id="resourceTags" placeholder="Separate tags with commas"></label>
+      <label class="check-row"><input id="resourceFavorite" type="checkbox"> Add to favorites</label>
+      <div class="dialog-actions">
+        <button type="button" id="cancelDialog" class="ghost-btn">Cancel</button>
+        <button type="submit" class="primary-btn">Save Resource</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="manageDialog">
+    <div class="dialog-header">
+      <div><p class="eyebrow">DATA</p><h2>Manage Your Resources</h2></div>
+      <button type="button" id="closeManage" class="icon-btn">×</button>
+    </div>
+    <p>Your edits are saved in this browser. Export them before moving to another device or replacing the GitHub files.</p>
+    <div class="stack">
+      <button id="exportBtn" class="primary-btn">Export Updated Resources</button>
+      <label class="file-label">Import Resource File<input id="importInput" type="file" accept=".json"></label>
+      <button id="resetBtn" class="danger-btn">Reset to Published Version</button>
+    </div>
+  </dialog>
+
+  <footer>
+    <span>Nancy Munce Command Center</span>
+    <button id="manageBtn" class="link-btn">Manage data</button>
+  </footer>
+
+  <template id="categoryCardTemplate">
+    <button class="category-card">
+      <div class="category-icon"></div>
+      <div>
+        <h3></h3>
+        <p></p>
+      </div>
+      <span class="arrow">→</span>
+    </button>
+  </template>
+
+  <template id="resourceCardTemplate">
+    <article class="resource-card">
+      <div class="resource-card-top">
+        <span class="type-pill"></span>
+        <button class="favorite-btn" title="Toggle favorite">☆</button>
+      </div>
+      <h3></h3>
+      <p class="description"></p>
+      <div class="tag-list"></div>
+      <div class="resource-actions">
+        <a class="open-link" target="_blank" rel="noopener">Open Resource ↗</a>
+        <button class="edit-btn">Edit</button>
+        <button class="delete-btn">Delete</button>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
