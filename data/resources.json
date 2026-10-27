@@ -322,9 +322,9 @@
       "favorite": false
     },
     {
-      "name": "2026\u20132027 TOL Completion Tracker",
+      "name": "2026–2027 TOL Completion Tracker",
       "category": "Course Development",
-      "description": "Excel tracker for TOL completions during the 2026\u20132027 year.",
+      "description": "Excel tracker for TOL completions during the 2026–2027 year.",
       "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B2AFAF4D2-F74A-479D-BD99-5410E680077B%7D&file=2026_2027%20TOL%20Completion%20Tracker.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
       "type": "Excel",
       "tags": [
@@ -348,9 +348,9 @@
       "favorite": false
     },
     {
-      "name": "2026\u20132027 Professional Development Plan",
+      "name": "2026–2027 Professional Development Plan",
       "category": "Course Development",
-      "description": "IDEAS professional development plan for the 2026\u20132027 year.",
+      "description": "IDEAS professional development plan for the 2026–2027 year.",
       "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7BEC0E93B6-09D1-4FE6-8C78-A12070F578A5%7D&file=2026-2027%20Professional%20Development%20Plan.docx&action=default&mobileredirect=true&DefaultItemOpen=1%3Fweb%3D1",
       "type": "Word",
       "tags": [
@@ -414,7 +414,7 @@
     {
       "name": "AA Department Leadership PDF",
       "category": "Course Development",
-      "description": "Shared PDF for AA Department Leadership 2025\u20132026.",
+      "description": "Shared PDF for AA Department Leadership 2025–2026.",
       "url": "https://spcollegeedu-my.sharepoint.com/shared?listurl=https%3A%2F%2Fspcollegeedu-my.sharepoint.com%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments&id=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files%2FAA+Department+Leadership+2025-26+1.pdf&parent=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files&shareLink=1%2C1%2C1%2C1%2C1%2C1%2C1%2C1&ga=1",
       "type": "PDF",
       "tags": [
@@ -453,7 +453,7 @@
     {
       "name": "AA Department Leadership PDF",
       "category": "Blueprinting",
-      "description": "Shared AA Department Leadership 2025\u20132026 PDF relevant to blueprint planning.",
+      "description": "Shared AA Department Leadership 2025–2026 PDF relevant to blueprint planning.",
       "url": "https://spcollegeedu-my.sharepoint.com/shared?listurl=https%3A%2F%2Fspcollegeedu-my.sharepoint.com%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments&id=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files%2FAA+Department+Leadership+2025-26+1.pdf&parent=%2Fpersonal%2Fgodcharles_timothy_spcollege_edu%2FDocuments%2FMicrosoft+Teams+Chat+Files&shareLink=1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1&ga=1",
       "type": "PDF",
       "tags": [
@@ -504,16 +504,16 @@
       "favorite": false
     },
     {
-      "name": "Course Coordinator Email Tracker",
+      "id": "r039",
+      "name": "CC Email  and Sync Date Tracker",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B40CC25BF-A10F-4D11-A417-444F64C372B3%7D&file=CCemail.xlsx&action=default&mobileredirect=true",
       "category": "Blueprinting",
       "description": "Spreadsheet for course coordinator email tracking.",
-      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B40CC25BF-A10F-4D11-A417-444F64C372B3%7D&file=CCemail.xlsx&action=default&mobileredirect=true",
       "type": "Excel",
       "tags": [
         "course coordinators",
         "email"
       ],
-      "id": "r039",
       "favorite": false
     },
     {
@@ -597,7 +597,7 @@
     {
       "name": "Three-Year Assessment Planning Worksheet",
       "category": "Administration",
-      "description": "IDEAS service unit assessment planning worksheet for the 2023\u20132026 cycle.",
+      "description": "IDEAS service unit assessment planning worksheet for the 2023–2026 cycle.",
       "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/doc2.aspx?sourcedoc=%7BDE018C06-9A4D-485A-8FAE-96132D1C6CEE%7D&file=3%20Year%20Service%20Unit%20Assessment%20Planning%20Worksheet%20IDEAS%2023-26%20-%20Copy.docx&ac=",
       "type": "Word",
       "tags": [
@@ -608,9 +608,9 @@
       "favorite": false
     },
     {
-      "name": "FY26\u201327 Dean Budget Projections",
+      "name": "FY26–27 Dean Budget Projections",
       "category": "Administration",
-      "description": "Spreadsheet containing dean projections for FY26\u201327 budgeting.",
+      "description": "Spreadsheet containing dean projections for FY26–27 budgeting.",
       "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B35251152-A791-479B-AE04-2C992D6768E5%7D&file=FY26-27%20Dean%20Projections%20for%20Budgeting%20Purposes.xlsx&action=default&mobileredirect=true&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=fe85dc74-50fb-46f2-b3b3-81c2bdbc50ef&linkOpenTime=1782141546356",
       "type": "Excel",
       "tags": [
@@ -660,9 +660,9 @@
       "favorite": false
     },
     {
-      "name": "2026\u20132027 FLAIR Innovation Grant Draft",
+      "name": "2026–2027 FLAIR Innovation Grant Draft",
       "category": "FLAIR Innovation Grant",
-      "description": "Current draft of the 2026\u20132027 FLAIR Innovation Grant proposal.",
+      "description": "Current draft of the 2026–2027 FLAIR Innovation Grant proposal.",
       "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/_layouts/15/Doc.aspx?sourcedoc=%7B72D4448A-21D7-41B8-876C-89E513DB49E2%7D&file=2026_2027_DRAFT_FLAIR_IGrant.docx&action=default&mobileredirect=true",
       "type": "Word",
       "tags": [
@@ -688,7 +688,7 @@
     {
       "name": "Search IDEAS Files for IGrant",
       "category": "FLAIR Innovation Grant",
-      "description": "SharePoint search for files containing \u201cigrant\u201d in the IDEAS library.",
+      "description": "SharePoint search for files containing “igrant” in the IDEAS library.",
       "url": "https://spcollegeedu-my.sharepoint.com/query?q=igrant&id=%2Fsites%2FIDS%2FShared%20Documents&listurl=https%3A%2F%2Fspcollegeedu%2Esharepoint%2Ecom%2Fsites%2FIDS%2FShared%20Documents&searchScope=library",
       "type": "SharePoint Search",
       "tags": [
@@ -727,7 +727,7 @@
     {
       "name": "SPC Innovation Grant Guidelines",
       "category": "FLAIR Innovation Grant",
-      "description": "Published guidelines for the 2026\u20132027 SPC Innovation Grant.",
+      "description": "Published guidelines for the 2026–2027 SPC Innovation Grant.",
       "url": "https://myemail.constantcontact.com/SPC-Innovation-Grant-Guidelines-26-27.html?soid=1109152397950&aid=p0ZYuti9nu8",
       "type": "Guidelines",
       "tags": [
@@ -748,6 +748,46 @@
         "analytics"
       ],
       "id": "r057",
+      "favorite": false
+    },
+    {
+      "id": "r1791247335658",
+      "name": "APPQMR Completions",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/Shared%20Documents/Course,%20Workshop,%20LSeries%20Development/IDEAS-Facilitated%20Courses%20for%20Faculty/2025_02_03_APPQMR%20Completion%20Report.xlsx?d=w5b9397711a784d9a93380d0a129dc838&csf=1&web=1&e=fA6jVN",
+      "category": "Course Development",
+      "description": "APPQMR Completions",
+      "type": "spreadsheet",
+      "tags": [],
+      "favorite": false
+    },
+    {
+      "id": "r1791247638371",
+      "name": "Peer Reviewer List",
+      "url": "https://spcollegeedu.sharepoint.com/:x:/r/sites/IDS/Shared%20Documents/Course,%20Workshop,%20LSeries%20Development/Peer%20Review/QM%20Peer%20Reviewer%20Course%20(PRC).xlsx?d=w15be3fe382214633842e504da5d537c3&csf=1&web=1&e=UuqBVf",
+      "category": "Course Development",
+      "description": "Peer Reviewer List",
+      "type": "Spreadsheet",
+      "tags": [],
+      "favorite": false
+    },
+    {
+      "id": "r1793059039153",
+      "name": "MaryD Accessibilty Issues Tracking Page",
+      "url": "https://spcollegeedu.sharepoint.com/:w:/r/sites/IDS/Shared%20Documents/Accessibility/Ongoing%20Accessibility%20Course%20Needs.docx?d=wb91234eb102d4bb1942c5c88005cbe15&csf=1&web=1&e=UD3XK7",
+      "category": "Accessibility",
+      "description": "MaryD Accessibilty Issues Tracking Page",
+      "type": "Sharepoint Page",
+      "tags": [],
+      "favorite": false
+    },
+    {
+      "id": "r1793060303455",
+      "name": "IDEAS Standard Course Peer Reviewer Agreement Generator",
+      "url": "file:///Users/munce.nancy/Downloads/IDEAS_Standard_Course_Peer_Reviewer_Agreement_Generator_v1_0.html",
+      "category": "Accessibility",
+      "description": "IDEAS Standard Course Peer Reviewer Agreement Generator",
+      "type": "page",
+      "tags": [],
       "favorite": false
     }
   ]
