@@ -132,6 +132,17 @@ function fillCategorySelect(){
   categories().forEach(cat=>{
     const o=document.createElement('option');o.value=cat;o.textContent=cat;select.appendChild(o);
   });
+  const n=document.createElement('option');n.value='__new__';n.textContent='＋ New category…';select.appendChild(n);
+}
+
+function toggleNewCategory(){
+  const select=document.getElementById('resourceCategory');
+  const label=document.getElementById('newCategoryLabel');
+  const input=document.getElementById('newCategoryName');
+  const isNew=select.value==='__new__';
+  label.classList.toggle('hidden',!isNew);
+  input.required=isNew;
+  if(!isNew) input.value='';
 }
 
 function openAddDialog(){
@@ -139,6 +150,7 @@ function openAddDialog(){
   document.getElementById('resourceForm').reset();
   document.getElementById('resourceId').value='';
   if(state.activeCategory) document.getElementById('resourceCategory').value=state.activeCategory;
+  toggleNewCategory();
   document.getElementById('resourceDialog').showModal();
 }
 
@@ -153,6 +165,7 @@ function editResource(id){
   document.getElementById('resourceType').value=r.type||'';
   document.getElementById('resourceTags').value=(r.tags||[]).join(', ');
   document.getElementById('resourceFavorite').checked=!!r.favorite;
+  toggleNewCategory();
   document.getElementById('resourceDialog').showModal();
 }
 
@@ -172,7 +185,9 @@ document.getElementById('resourceForm').addEventListener('submit',e=>{
     id:id||`r${Date.now()}`,
     name:document.getElementById('resourceName').value.trim(),
     url:document.getElementById('resourceUrl').value.trim(),
-    category:document.getElementById('resourceCategory').value,
+    category:document.getElementById('resourceCategory').value==='__new__'
+      ?document.getElementById('newCategoryName').value.trim()
+      :document.getElementById('resourceCategory').value,
     description:document.getElementById('resourceDescription').value.trim(),
     type:document.getElementById('resourceType').value.trim()||'Resource',
     tags:document.getElementById('resourceTags').value.split(',').map(x=>x.trim()).filter(Boolean),
@@ -196,6 +211,7 @@ document.getElementById('categorySearch').addEventListener('input',e=>renderReso
 document.getElementById('backBtn').onclick=()=>renderCategories(document.getElementById('globalSearch').value);
 document.getElementById('favoritesBtn').onclick=showFavorites;
 document.getElementById('addResourceBtn').onclick=openAddDialog;
+document.getElementById('resourceCategory').addEventListener('change',toggleNewCategory);
 document.getElementById('closeDialog').onclick=()=>document.getElementById('resourceDialog').close();
 document.getElementById('cancelDialog').onclick=()=>document.getElementById('resourceDialog').close();
 
